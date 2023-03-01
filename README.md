@@ -36,7 +36,7 @@
   [sᴛʀɪɴɢ ʙᴏᴛ ❣](https://telegram.me/Iro_string_bot)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ATLEAST+GIVE+A+STAR+AND+FORK+THE+REPO+****)](https://github.com/Iro09/string)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ATLEAST+GIVE+A+STAR+AND+FORK+THE+REPO+*****)](https://github.com/Iro09/string)
 
 
 ## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
