@@ -2,9 +2,9 @@
   <img src="https://telegra.ph/file/102e741cfaa429587f807.jpg" alt="StringGen">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+STRING+GENERATOR+BOT)](https://github.com/Iro09/string)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+STRING+GENERATOR+BOT+****)](https://github.com/Iro09/string)
 
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
+###  ❤️sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/Iro09"><img alt="Website" src="https://img.shields.io/badge/𝙋𝙄𝙆𝘼𝘾𝙃𝙐-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Iro09/string?style=social)](https://github.com/Iro09/string/stargazers)
@@ -36,7 +36,7 @@
   [sᴛʀɪɴɢ ʙᴏᴛ ❣](https://telegram.me/Iro_string_bot)
 
 
-Atleast Give A Star and Fork The Repo 👉👈❤️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ATLEAST+GIVE+A+STAR+AND+FORK+THE+REPO+****)](https://github.com/Iro09/string)
 
 
 ## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
@@ -48,7 +48,7 @@ Atleast Give A Star and Fork The Repo 👉👈❤️
 
 
 <p align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 🥀sᴜᴩᴩᴏʀᴛ🥀 」─
 </p>
 
 </h3>
