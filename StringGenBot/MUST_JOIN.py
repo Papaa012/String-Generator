@@ -29,4 +29,4 @@ async def must_join_channel(bot: Client, msg: Message):
             except ChatWriteForbidden:
                 pass
     except ChatAdminRequired:
-        print(f"ɪ'ᴍ ɴᴏᴛ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇ ᴍᴜꜱᴛ_ᴊᴏɪɴ ᴄʜᴀᴛ : {MUST_JOIN} !")
+        print(f"ɪ'ᴍ ɴᴏᴛ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇ ᴍᴜꜱᴛ_ᴊᴏɪɴ  : {MUST_JOIN} !")
