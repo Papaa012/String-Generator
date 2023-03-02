@@ -24,11 +24,11 @@ async def start(bot: Client, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
+                    InlineKeyboardButton(text="🥀ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ✨", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/ScaryServer"),
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Chat_ixz")
+                    InlineKeyboardButton("❣️ᴜᴘᴅᴀᴛᴇꜱ❣️", url="https://t.me/ScaryServer"),
+                    InlineKeyboardButton("s❣️ᴜᴘᴘᴏʀᴛ❣️", url="https://t.me/Chat_ixz")
                 ]
             ]
         ),
