@@ -20,7 +20,7 @@ async def start(bot: Client, msg: Message):
          
 ɪ'ᴍ {me2} ,
 ᴀ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ ꜱᴛʀɪɴɢ
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ :@ScaryNetwork**""",
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ : @ScaryNetwork**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
