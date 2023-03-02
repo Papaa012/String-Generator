@@ -23,7 +23,7 @@ async def start(bot: Client, msg: Message):
     me2 = alt.mention
     await bot.send_photo(
         chat_id=msg.chat.id,
-         photo"https://telegra.ph/file/70663a8e4fde7e68ae311.jpg",
+         photo=f"https://telegra.ph/file/70663a8e4fde7e68ae311.jpg",
          caption=f"""ʜᴇʏ✨❣️🥀 {msg.from_user.mention},
          
 ɪ'ᴍ {me2} ,
