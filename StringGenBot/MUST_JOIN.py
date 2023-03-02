@@ -19,10 +19,10 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply(
-                    f"ʏᴏᴜ ᴍᴜꜱᴛ ɴᴇᴇᴅ ᴛᴏ ᴊᴏɪɴ [IRO]({link}) ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ \n\n ᴛʀʏ ᴀɢᴀɪɴ ᴀꜰᴛᴇʀ ᴊᴏɪɴɪɴɢ ᴄʜᴀɴɴᴇʟ",
+                    f"**ʏᴏᴜ ᴍᴜꜱᴛ ɴᴇᴇᴅ ᴛᴏ ᴊᴏɪɴ [ᴄʜᴀɴɴᴇʟ]({link}) ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ \n\n ᴛʀʏ ᴀɢᴀɪɴ ᴀꜰᴛᴇʀ ᴊᴏɪɴɪɴɢ**",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("✨ ᴊᴏɪɴ ✨", url=link)]
+                        [InlineKeyboardButton("ᴊᴏɪɴ", url=f"https://t.me/chat_ixz")]
                     ])
                 )
                 await msg.stop_propagation()
