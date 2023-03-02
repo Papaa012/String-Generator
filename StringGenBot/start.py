@@ -11,11 +11,6 @@ def filter(cmd: str):
 
 @Client.on_message(filter("start"))
 async def start(bot: Client, msg: Message):
-    text1 = await bot.send_message(msg.chat.id, f"ʜᴇʏ❣️🥀 `{msg.from_user.mention}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ!!")
-    await asyncio.sleep(1.5)
-    text2 = await text1.edit(f"ᴡᴀɪᴛ ʙᴀʙY✨❣️! ʟᴇᴛ ᴍᴇ ɢᴇᴛ ꜱᴛᴀʀᴛᴇᴅ \nꜱᴏ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍʏ ᴘᴏᴡᴇʀ✨❣️🥀")
-    await asyncio.sleep(1.5)
-    await text2.delete()
     alt = await bot.get_me()
     me2 = alt.mention
     await bot.send_photo(
