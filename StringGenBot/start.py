@@ -33,11 +33,11 @@ async def start(bot: Client, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
+                    InlineKeyboardButton(text="🥀ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ🥀", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/iro_bot_support"),
-                    InlineKeyboardButton(" ᴅᴇᴠᴇʟᴏᴩᴇʀ ", user_id=OWNER_ID)
+                    InlineKeyboardButton("✨ᴜᴘᴅᴀᴛᴇꜱ✨", url="https://t.me/iro_bot_support"),
+                    InlineKeyboardButton(" ❣️ᴅᴇᴠᴇʟᴏᴩᴇʀ❣️ ", user_id=OWNER_ID)
                 ]
             ]
         ),
