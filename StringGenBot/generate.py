@@ -38,7 +38,7 @@ import config
 ask_ques = "**» ᴘʟᴇᴀꜱᴇ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ꜱᴛʀɪɴɢ ᴛʏᴘᴇ**"
 buttons_ques = [
     [
-        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀ", callback_data="pyrogram1"),
+        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ", callback_data="pyrogram1"),
         InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ ᴠ2", callback_data="pyrogram"),
     ],
     [
